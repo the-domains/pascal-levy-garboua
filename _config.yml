@@ -1,0 +1,28 @@
+name: pascal-levy-garboua
+favicon: null
+layout_spectrum: 0.40711652929894626
+typography_spectrum: 0.3437791394535452
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.19962347764521837
+  lightness: 0.1616639313288033
+  saturation: 0.6334716505371034
+  rhythmicContrast: 0.4838352946098894
+purpose: []
